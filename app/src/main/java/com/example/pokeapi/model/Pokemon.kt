@@ -36,3 +36,5 @@ data class Stat(
     @SerializedName("name") val name: String,
     @SerializedName("url") val url: String
 )
+
+// no usé android.R , cambie serializedname
